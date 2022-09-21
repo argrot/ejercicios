@@ -1,0 +1,43 @@
+*{
+    margin: 0;padding: 0;
+}
+
+#contenedor{
+    width: 80%;
+    height: 600px;
+    background-color: red;
+    margin: auto;
+    margin-top: 0px;
+}
+
+#areaBarra{
+    height: 60px;
+    background-color: blue;
+    margin:0px !important
+}
+#navbarNavAltMarkup{
+    padding-left: 60%;
+    background-color: gray;
+    border-radius: 10px;
+    margin: 0px !important
+    
+}
+
+
+
+#primero{
+    color: white;
+}
+#segundo{
+    color: white;
+}
+#tercero{
+    color: white;
+}
+
+#areaFoto{
+    height: 500px;
+    background-color: black;
+    margin-top: 0px;
+    border-radius: 10px;
+}
