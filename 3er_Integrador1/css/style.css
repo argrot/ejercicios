@@ -1,0 +1,92 @@
+
+
+
+
+#barrasup{
+    background-color:rgb(88,87,87)!important ;
+}
+
+
+#bot_ticket{ color: rgb(7, 220, 7);
+
+}
+
+.container img { width: 100px;
+
+}
+
+h6{ text-align: center;}
+h4{text-align: center;}
+
+#tarjetas{
+    width: 60%;
+    margin: auto;
+}
+
+#JavaS{
+    background-color: yellow;
+    color: black;
+}
+
+#React{
+    background-color: blue;
+    color: white;
+}
+#Nego{
+    background-color:gray;
+    color: white;
+}
+
+#Star{
+    background-color: red;
+    color: white;
+}
+
+.col-lg-6{
+    background-color:rgb(88, 87, 87);
+    color: white;
+    padding: 10px !important;
+}
+
+#nombre{
+    width: 50% !important;
+    margin: auto;
+}
+#botonfin{
+    background-color: rgb(61, 162, 61);
+    color: white;
+}
+
+#anchofoot{
+    width:60%;
+}
+
+.txt1{
+    position: absolute;
+    color: white;
+    top: 350px;
+    /*top: 30%;*/
+    left: 50%;
+    max-width: 40%;
+    text-align: right;
+}
+
+.carousel-item{
+    position: relative;
+    opacity: 0.9;
+    display: inline-block;
+    text-align: right;
+    /*background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));*/
+    background-color: black ;
+
+}
+
+#carouselExampleControls{
+    opacity:1;
+}
+
+#luz{
+
+    font-size:large;
+    
+}
